@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video Compilation Page</title>
+  </head>
+  <body>
+    <main>
+      <h1>Interesting Video Compilation</h1>
+      <p>Welcome to our collection of educational and entertaining videos. Explore and enjoy!</p>
+
+      <section>
+        <h2>Video 1: Coding Tutorial</h2>
+        <p>Learn the basics of Python in this beginner-friendly tutorial.</p>
+        <iframe
+          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+          title="Python Basics Tutorial"
+          width="560"
+          height="315"
+        ></iframe>
+      </section>
+
+      <section>
+        <h2>Video 2: Motivational Speech</h2>
+        <p>Watch this inspiring speech to boost your motivation and productivity.</p>
+        <iframe
+          src="https://www.youtube.com/embed/ZXsQAXx_ao0"
+          title="Motivational Speech"
+          width="560"
+          height="315"
+        ></iframe>
+      </section>
+
+      <section>
+        <h2>Video 3: Relaxing Music</h2>
+        <p>Unwind and relax with some calming background music.</p>
+        <iframe
+          src="https://www.youtube.com/embed/YV7bwlD_BVI"
+          title="Relaxing Music"
+          width="560"
+          height="315"
+        ></iframe>
+      </section>
+    </main>
+  </body>
+</html>
