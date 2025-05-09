@@ -1,3 +1,5 @@
+````markdown
+
 # Video Compilation Page
 
 A simple HTML project featuring a curated collection of educational, motivational, and relaxing videos embedded from YouTube.
